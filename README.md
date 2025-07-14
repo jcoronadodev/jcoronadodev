@@ -17,7 +17,7 @@ I’m passionate about technology 🤖, especially **QA testing**, **automation*
 
 ### Technologies:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,cypress,js,react,express,nodejs,npm,ruby, rails" /><br/>
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,js,react,express,nodejs,npm,ruby,rails" /><br/>
   <img src="https://skillicons.dev/icons?i=html,py,vscode,notion,figma,git,github,aws,docker,linux,windows" />
 </p>
 ---
