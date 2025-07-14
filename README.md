@@ -22,7 +22,10 @@ I’m passionate about technology 🤖, especially **QA testing**, **automation*
     <img src="https://skillicons.dev/icons?i=html,py,vscode,notion,figma,git,github,aws,docker,linux,windows" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,sqlite" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,linux,vscode,figma,tailwind,vercel" />
+</p>
 ---
 
 ### My Latest Blog Post
