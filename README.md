@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome, I'm Juan Coronado 👋
 
-<!--
-**jcoronadodev/jcoronadodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Engineer and Web Developer
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCoronado&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
+
+🌱 Trying to become a better person every day.  
+⚡ I enjoy personal development and productivity.  
+🧠 I enjoy working in teams and collaborating with other people.
+
+---
+
+### Technologies:
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,sqlite,tailwind,bootstrap,vscode,linux,git,github,figma,vercel" />
+
+---
+
+### My Latest Blog Post
+Stay tuned for future blog updates!
