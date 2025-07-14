@@ -2,7 +2,7 @@
 
 ## QA Engineer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCoronado&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jcoronadodev&theme=dark)](https://git.io/streak-stats)
 
 ### About Me
 
